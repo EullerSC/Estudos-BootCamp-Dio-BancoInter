@@ -1,0 +1,11 @@
+Comandos:
+dir - Lista todas as pastas dentro do diretório atual.
+cd - Muda o diretório, navegua pelos diretórios.
+cls- limpa a tela do Git.
+mkdir-  cria um novo diretório
+del - remove todos os arquivos dentro do diretório
+rmdir- remove o diretório.
+git status - verifica se a alterações para serem adicionadas no repositório
+git add - adiciona as alterações feitas no repositorio local.
+git commit -m "" - adiciona o comentário para a alteração feita
+git push origin main - envia o novo repositório local para a nuvem no github. 
